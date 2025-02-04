@@ -1,9 +1,21 @@
-## Álvaro Pérez Ortega
+### **💻 Álvaro Pérez Ortega**  
+#### *Mathematical Engineering & AI Student*  
 
-### Mathematical Engineering and AI Student
+<p align="center">
+  <a href="mailto:202300845@alu.comillas.edu">
+    <img src="https://img.shields.io/badge/Email-202300845@alu.comillas.edu-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alvaro-perez-ortega/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-#### 📨 [202300845@alu.comillas.edu](mailto:202300845@alu.comillas.edu)
-#### 👨‍💻 [LinkedIn Profile](https://www.linkedin.com/in/alvaro-perez-ortega/)
+---
+
+### 🚀 About Me
+- 🎓 Mathematical Engineering & AI Student at Comillas University (ICAI)
+- 🤖 Passionate about **AI, Cryptography, and Chemistry**
+- 💻 Love **solving CTFs, automation, and OSINT**
 
 ---
 
@@ -19,7 +31,30 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=Python+C%2B%2B+Git+Ubuntu+Bash+MySQL+Kali+Linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=Python+C%2B%2B+Git+Ubuntu+Bash+MySQL+Kali+Linux" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolgolf1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coolgolf1&show_icons=true&theme=dark&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coolgolf1&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Watch My Contributions Grow!
+<p align="center">
+  <img src="https://github.com/Coolgolf1/Coolgolf1/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🎯 Connect with Me!
+<p align="left">
+  <a href="https://www.linkedin.com/in/alvaro-perez-ortega/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
