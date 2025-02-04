@@ -22,4 +22,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=Python+C%2B%2B+Git+Ubuntu+Bash+MySQL+Kali+Linux" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolgolf1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolgolf1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
