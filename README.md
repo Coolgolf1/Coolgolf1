@@ -41,7 +41,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=Python+C%2B%2B+C%23+MATLAB+Git+Ubuntu+Bash+MySQL+MongoDB+Kali+Linux+Docker+Ghidra+Burp+Suite+Nmap+VirtualBox+BeautifulSoup+Scrapy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=Python+C%2B%2B+Git+Ubuntu+Bash+MySQL+Docker+Kali+Linux+Ghidra+Burp+Suite" />
 </p>
 
 ---
