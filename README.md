@@ -49,13 +49,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Coolgolf1/Coolgolf1/main/dist/github-contribution-grid-snake.svg" />
 </p>
-
-
----
-
-### 🎯 Connect with Me!
-<p align="left">
-  <a href="https://www.linkedin.com/in/alvaro-perez-ortega/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
