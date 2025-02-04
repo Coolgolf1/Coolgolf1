@@ -32,9 +32,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ghidra-F69C19?style=for-the-badge&logo=ghidra&logoColor=white" />
   <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-0042A5?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/-BeautifulSoup-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Scrapy-88D498?style=for-the-badge&logo=python&logoColor=white" />
