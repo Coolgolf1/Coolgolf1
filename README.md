@@ -3,7 +3,7 @@
 ### Mathematical Engineering and AI Student
 
 #### 📨 [202300845@alu.comillas.edu](mailto:202300845@alu.comillas.edu)
-#### ![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png) [LinkedIn Profile](https://www.linkedin.com/in/alvaro-perez-ortega/)
+#### ![LinkedIn Profile](https://www.linkedin.com/in/alvaro-perez-ortega/)
 
 
 
