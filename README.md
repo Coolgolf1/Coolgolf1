@@ -47,8 +47,9 @@
 
 ### 🐍 Watch My Contributions Grow!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Coolgolf1/Coolgolf1/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Coolgolf1/Coolgolf1/main/dist/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
