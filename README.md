@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/-Scrapy-88D498?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<!--
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=Python+C%2B%2B+Git+Ubuntu+Bash+MySQL+Docker+Kali+Linux+Ghidra+Burp+Suite" />
 </p>
@@ -51,6 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coolgolf1&theme=dark&hide_border=true" /> -->
 </p>
 
+-->
 ---
 
 ### 🐍 Watch My Contributions Grow!
