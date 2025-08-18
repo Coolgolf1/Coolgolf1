@@ -12,19 +12,28 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 Mathematical Engineering & AI Student at **Comillas University (ICAI)**
-- 🧠 Passionate about **AI, Cryptography, Mathematics, Physics & Chemistry**
-- 🧩 Enjoy solving **CTFs**, automating workflows, and exploring **OSINT**
+- 🧠 Passionate about **math**, **physics**, **chemistry** and **robotics** - not just a jack of all trades.
+- 🧩 Enjoy solving **CTFs** and **cryptography**, always researching new topics to learn about.
+
+---
+
+## 📚 Currently Learning
+
+- 🚀 **Rocketry** at my university's ICAI Rocket Team.
+- 📈 **Quantitative Finance** & stochastic calculus.
+- 🔬 **Analytical Chemistry** such as FTIR, HPLC, and other techniques.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coolgolf1&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coolgolf1&show_icons=true&theme=gruvbox&hide_border=true" />
 </p>
+
 
 ---
 
