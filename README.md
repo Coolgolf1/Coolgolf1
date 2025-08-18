@@ -1,5 +1,5 @@
-### **💻 Álvaro Pérez Ortega**  
-#### *Mathematical Engineering & AI Student*  
+<h2 align="center">💻 Álvaro Pérez Ortega</h2>
+<h4 align="center">Mathematical Engineering & AI Student</h4>
 
 <p align="center">
   <a href="mailto:202300845@alu.comillas.edu">
@@ -12,53 +12,34 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Mathematical Engineering & AI Student at Comillas University (ICAI)
-- 🤖 Passionate about **AI, Cryptography, Mathematics, Physics, and Chemistry**
-- 💻 Love **solving CTFs, automation, and OSINT**
+## 🚀 About Me
+
+- 🎓 Mathematical Engineering & AI Student at **Comillas University (ICAI)**
+- 🧠 Passionate about **AI, Cryptography, Mathematics, Physics & Chemistry**
+- 🧩 Enjoy solving **CTFs**, automating workflows, and exploring **OSINT**
 
 ---
 
-### 🛠️ Tools & Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scrapy-88D498?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+## 📊 GitHub Stats
 
-<!--
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=Python+C%2B%2B+Git+Ubuntu+Bash+MySQL+Docker+Kali+Linux+Ghidra+Burp+Suite" />
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coolgolf1&show_icons=true&theme=dark&hide_border=true" />
-<!--   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coolgolf1&theme=dark&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Coolgolf1&show_icons=true&theme=default&hide_border=true" />
 </p>
 
->
 ---
 
-### 🐍 Watch My Contributions Grow!
+## 🐍 Contributions Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="dist/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="dist/github-snake.svg" />
+  </picture>
+</p>
 
+---
+
+## 🔗 Let's Connect
+
+If you're working on cool ideas in **AI, cybersecurity, or math-heavy projects**, or just want to collaborate, feel free to connect on LinkedIn or reach out by email.
