@@ -46,9 +46,3 @@
     <img alt="GitHub Contribution Snake" src="dist/github-snake.svg" />
   </picture>
 </p>
-
----
-
-## 🔗 Let's Connect
-
-If you're working on cool ideas in **AI, cybersecurity, or math-heavy projects**, or just want to collaborate, feel free to connect on LinkedIn or reach out by email.
