@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Mathematical Engineering & AI Student at **Comillas University (ICAI)**
+- 🎓 Mathematical Engineering & AI Student at **Comillas University (ICAI)**.
 - 🧠 Passionate about **math**, **physics**, **chemistry** and **robotics** - not just a jack of all trades.
 - 🧩 Enjoy solving **CTFs** and **cryptography**, always researching new topics to learn about.
 
