@@ -24,7 +24,7 @@
 
 - 🚀 **Rocketry** at my university's ICAI Rocket Team.
 - 📈 **Quantitative Finance** & stochastic calculus.
-- 🔬 **Analytical Chemistry** such as FTIR, HPLC, and other techniques.
+- 🔬 **Analytical Chemistry** such as Spectroscopy, Chromatography, and other techniques.
 
 ---
 
