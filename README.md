@@ -24,8 +24,7 @@
 
 - 🚀 **Rocketry** at my university's ICAI Rocket Team.
 - 🔬 **Analytical Chemistry** such as Spectroscopy, Chromatography, and other techniques.
-- 🤖 **Probabilistic Machine Learning** and its applications.
-- 📈 **Finance** and quantitative finance.
+- 📈 **Finance**.
 
 ---
 
