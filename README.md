@@ -23,8 +23,9 @@
 ## 📚 Currently Learning
 
 - 🚀 **Rocketry** at my university's ICAI Rocket Team.
-- 📈 **Finance** and quantitative finance. 
 - 🔬 **Analytical Chemistry** such as Spectroscopy, Chromatography, and other techniques.
+- 🤖 **Probabilistic Machine Learning** and its applications.
+- 📈 **Finance** and quantitative finance.
 
 ---
 
