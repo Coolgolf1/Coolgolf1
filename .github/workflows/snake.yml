@@ -2,47 +2,34 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight UTC
+    - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-
-    concurrency:
-      group: snake-${{ github.ref }}
-      cancel-in-progress: true
-
+      contents: write  
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0            # get full history so rebase works
-          persist-credentials: true # lets git push with GITHUB_TOKEN
+        uses: actions/checkout@v3
 
       - name: Generate Snake Animation (Light & Dark)
         uses: Platane/snk@v3
         with:
+
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit changes
+      - name: Pull & Commit & Push
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add dist/github-snake.svg dist/github-snake-dark.svg
-          git diff --staged --quiet && echo "No changes" && exit 0
-          git commit -m "Update contribution snake images [skip ci]"
-
-      - name: Rebase onto latest and push
+          git pull
+          git commit -m "Update contribution snake images" || echo "No changes to commit"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # rebase on the latest remote main (or current branch)
-          git fetch origin ${{ github.ref_name }}
-          git rebase origin/${{ github.ref_name }}
-          git push origin HEAD:${{ github.ref_name }}
