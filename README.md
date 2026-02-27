@@ -15,24 +15,13 @@
 ## 👨‍💻 About Me
 
 - 🎓 Mathematical Engineering & AI Student at **Comillas University (ICAI)**.
-- 🧠 Passionate about **math**, **physics**, **chemistry** and **robotics**.
+- 🧠 Passionate about **maths**, **physics** and **chemistry**..
 - 🧩 Enjoy solving **CTFs** and **cryptography**, always researching new topics to learn about.
 
 ---
 
 ## 📚 Currently Learning
 
+- 🤖 **AI/RL Applied to Robotics**, specifically drone control.
 - 🚀 **Rocketry** at my university's ICAI Rocket Team.
 - 🔬 **Analytical Chemistry** such as Spectroscopy, Chromatography, and other techniques.
-
----
-
-## 🐍 Contributions Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="dist/github-snake.svg" />
-  </picture>
-</p>
