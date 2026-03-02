@@ -2,8 +2,8 @@
 <h4 align="center">Mathematical Engineering & AI Student</h4>
 
 <p align="center">
-  <a href="mailto:202300845@alu.comillas.edu">
-    <img src="https://img.shields.io/badge/Email-202300845@alu.comillas.edu-red?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:alvarop@alu.comillas.edu">
+    <img src="https://img.shields.io/badge/Email-alvarop@alu.comillas.edu-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/alvaro-perez-ortega/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white">
