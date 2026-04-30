@@ -15,13 +15,13 @@
 ## 👨‍💻 About Me
 
 - 🎓 Mathematical Engineering & AI Student at **Comillas University (ICAI)**.
-- 🧠 Passionate about **maths**, **physics** and **chemistry**..
+- 🧠 Passionate about **maths**, **physics** and **chemistry**.
 - 🧩 Enjoy solving **CTFs** and **cryptography**, always researching new topics to learn about.
 
 ---
 
 ## 📚 Currently Learning
 
-- 🤖 **AI/RL Applied to Robotics**, specifically drone control.
+- 🤖 **AI/RL Applied to Robotics**, specifically drone control and reducing sim2real gap.
 - 🚀 **Rocketry** at my university's ICAI Rocket Team.
 - 🔬 **Analytical Chemistry** such as Spectroscopy, Chromatography, and other techniques.
