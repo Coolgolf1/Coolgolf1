@@ -18,7 +18,7 @@
 - 💼 Former **Product Engineering Intern at Xoople**, where I developed [geospatial applications](https://github.com/Coolgolf1/EarthObservation-Apps) for Earth observation and geospatial data visualization.
 - 🔬 **Undergraduate Researcher & Bachelor's Thesis Student** at [TRAIL — Trustworthy Robotics and AI Lab](https://robotics-trail.github.io/), researching reinforcement learning and sim-to-real transfer for autonomous drones.
 - 🛡️ **AWS Team Member** of **Spain's Blue Team** at Locked Shields 2026, the NATO CCDCOE cyber defence exercise.
-- 🚀 **Avionics Lead** at the **ICAI Rocket Team**, working on embedded systems and rocket avionics.
+- 🚀 **Avionics Lead** at the **Comillas Rocket Team**, working on embedded systems and rocket avionics.
 - 🏅 **Certified:** Databricks Certified Machine Learning Associate · AWS Certified AI Practitioner.
 
 ---
