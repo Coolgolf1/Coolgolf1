@@ -26,5 +26,5 @@
 ## 📚 Currently Exploring
 
 - 🤖 **Reinforcement Learning & Robotics**, particularly autonomous control and sim-to-real transfer.
-- 🧩 **Cybersecurity & Cryptography**, including CTF challenges and security research.
+- 🧩 **Cybersecurity & Cryptography**, including CTF challenges.
 - 🔬 **Analytical Chemistry**, especially spectroscopy and chromatography.
